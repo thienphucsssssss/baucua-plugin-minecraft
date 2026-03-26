@@ -100,8 +100,18 @@ Bầu Cua Tôm Cá là trò chơi dân gian Việt Nam:
 Hình ảnh
 ===========
 <img width="533" height="422" alt="baucuasolo" src="https://github.com/user-attachments/assets/b019c5d2-514b-4d33-ad3d-f17cbe721511" />
-<img src="https://s5.ezgif.com/tmp/ezgif-54eacbbb171d158c.gif" width="100%">
 
+<img src="https://s5.ezgif.com/tmp/ezgif-54eacbbb171d158c.gif" width="60%">
+
+<img width="993" height="60" alt="baucuatime" src="https://github.com/user-attachments/assets/5928fa73-9848-4e3b-b7e4-10b8a7d05e12" />
+
+<img width="527" height="273" alt="sanhbaucua" src="https://github.com/user-attachments/assets/079559e4-ce2d-41c0-a449-fee0a1b98d18" />
+
+<img width="703" height="569" alt="baurooms" src="https://github.com/user-attachments/assets/048254e9-cd25-4b13-a05b-a4fa907142e5" />
+
+<img width="537" height="418" alt="nhacai" src="https://github.com/user-attachments/assets/20439dd9-acd2-45a8-9a5a-b9e5e4b55f59" />
+
+<img width="715" height="419" alt="nguoichoi" src="https://github.com/user-attachments/assets/655e417f-0469-4d33-97ce-c2232c2b3593" />
 
 ---
 
