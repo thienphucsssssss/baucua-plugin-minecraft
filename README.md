@@ -100,7 +100,7 @@ Bầu Cua Tôm Cá là trò chơi dân gian Việt Nam:
 Hình ảnh
 ===========
 <img width="533" height="422" alt="baucuasolo" src="https://github.com/user-attachments/assets/b019c5d2-514b-4d33-ad3d-f17cbe721511" />
-![gif](https://s5.ezgif.com/tmp/ezgif-54eacbbb171d158c.gif)
+<img src="https://s5.ezgif.com/tmp/ezgif-54eacbbb171d158c.gif" width="100%">
 
 
 ---
