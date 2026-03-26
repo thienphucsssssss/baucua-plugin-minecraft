@@ -6,7 +6,7 @@ Plugin trò chơi dân gian Bầu Cua Tôm Cá cho server Minecraft. Người ch
 Tính năng
 ===========
 
-**Chế độ Solo (bản Free)**
+**Chế độ Solo (Free)**
 - Người chơi mở bàn solo bằng `/baucua`, đặt cược và lắc ngay
 - Giới hạn cược tối thiểu / tối đa
 - Thuế lợi nhuận khi thắng (tùy chỉnh %)
