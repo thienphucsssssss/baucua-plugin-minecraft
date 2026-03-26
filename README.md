@@ -97,6 +97,12 @@ Bầu Cua Tôm Cá là trò chơi dân gian Việt Nam:
 - Mỗi linh vật trùng thì **được × 1 lần cược**. Trùng 2 viên → ×2, trùng 3 → ×3
 - Không trùng → **mất tiền cược** ở linh vật đó
 
+Hình ảnh
+===========
+<img width="533" height="422" alt="baucuasolo" src="https://github.com/user-attachments/assets/b019c5d2-514b-4d33-ad3d-f17cbe721511" />
+![baucuaquay](https://github.com/user-attachments/assets/fddef39a-4bba-4185-ac94-65f3d51cd7e0)
+
+
 ---
 
 Liên hệ **Discord: lilarie** để mua License-key bản Premium mở khóa chế độ Nhà Cái và duyệt phòng ủng hộ mình, cảm ơn đã đọc ☕️.
