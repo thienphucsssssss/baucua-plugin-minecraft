@@ -1,3 +1,5 @@
+<img width="1782" height="1385" alt="baucualogo" src="https://github.com/user-attachments/assets/6566e18a-190e-4724-9924-2e4aa9c070f8" />
+
 Bầu Cua Tôm Cá ![Supported server version](https://img.shields.io/badge/minecraft-1.21+-brightgreen)
 ===========
 
