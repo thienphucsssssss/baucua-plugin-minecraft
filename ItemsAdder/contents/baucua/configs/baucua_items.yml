@@ -1,0 +1,59 @@
+info:
+  namespace: baucua
+
+items:
+  nai:
+    display_name: "§6🦌 Nai"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/nai.png
+
+  ga:
+    display_name: "§c🐔 Gà"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/ga.png
+
+  tom:
+    display_name: "§6🦐 Tôm"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/tom.png
+
+  cua:
+    display_name: "§4🦀 Cua"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/cua.png
+
+  ca:
+    display_name: "§b🐟 Cá"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/ca.png
+
+  bau:
+    display_name: "§a🍐 Bầu"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/bau.png
+
+  xucxac:
+    display_name: "§6🎲 Xúc Xắc"
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - item/baucua/xucxac.png
