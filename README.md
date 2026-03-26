@@ -22,6 +22,7 @@ Tính năng
 - Cảnh báo trước khi phòng hết hạn
 - Giao diện duyệt phòng (Room Browser) — xem người chơi, giới hạn, trạng thái
 - Thông báo toàn server khi có phòng mới mở
+- Hiển thị lịch sử của 5 cầu gần nhất.
 
 **Chung**
 - Giao diện chest GUI đẹp mắt, dễ dùng
